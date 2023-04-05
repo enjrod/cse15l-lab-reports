@@ -6,7 +6,7 @@
 
 **Installing VS Code** <br>
 To begin, you want to go to [Link](https://code.visualstudio.com/) and follow the download instructions for your designated device. <br>
-
+![Image](
 Once installed, if you open up VS Code and get a window similar to the one below, you have sucessfully installed the application! <br>
 nts insert image <br
 **Remotely Connecting** <br>
