@@ -1,5 +1,9 @@
 # Lab Report 1 <br>
 
+Horizontal rule:
+
+---
+
 ## Tutorial : How to log-in to a course specific account on ieng6! <br>
 
 **Installing VS Code** <br>
@@ -8,7 +12,4 @@ nts insert image<br>
 Once installed, if you open up VS Code and get a window similar to the one below, you have sucessfully installed the application! <br>
 
 **Remotely Connecting** <br>
-
-
-
 
