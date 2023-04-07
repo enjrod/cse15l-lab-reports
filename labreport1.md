@@ -38,11 +38,15 @@ After remotely connecting, we can now run certain commands in our terminal. Thes
 * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 <br>
-Here are my personal results after trying a few of the commands out: <br>
+Here are my personal results after trying a few of the commands out:
+<br>
+<br>
+
 ![Image](tryingcommands.png)
+
 <br>
 I worked with a partner in lab and I highly reccommend comparing your command outputs with each other to ensure that you are using them correctly or 
-resolve any issues you may find. After working on commands together, it marks the end of the lab!
+resolve any issues you may find. After working on commands together, it marks the end of the lab! ʕ•́ᴥ•̀ʔっ
 
 
 
