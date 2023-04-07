@@ -46,7 +46,7 @@ Here are my personal results after trying a few of the commands out:
 
 <br>
 I worked with a partner in lab and I highly reccommend comparing your command outputs with each other to ensure that you are using them correctly or 
-resolve any issues you may find. After working on commands together, it marks the end of the lab! ʕ•́ᴥ•̀ʔっ
+resolve any issues you may find. After working on commands together, you can use either "ctrl + D" or run the command`exit`to log out of the remoter server in the terminal! ʕ•́ᴥ•̀ʔっ
 
 
 
