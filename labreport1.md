@@ -42,7 +42,7 @@ Here are my personal results after trying a few of the commands out:
 <br>
 <br>
 
-![Image](tryingcommands.png)
+![Image](tryingcommands2.png)
 
 <br>
 I worked with a partner in lab and I highly reccommend comparing your command outputs with each other to ensure that you are using them correctly or 
