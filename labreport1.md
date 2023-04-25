@@ -30,13 +30,13 @@ You are now remotely connected to a computer in the CSE basement!<br>
 
 ## Trying Out Commands!<br>
 After remotely connecting, we can now run certain commands in our terminal. These following commands were given in lab: <br>
-* `cd ~`
-* `cd`
-* `ls -lat`
-* `ls -a`
-* `ls <directory>`
-* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
-* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+* `cd ~` changes directory to home directory
+* `cd` changes working directory
+* `ls -lat`lists all files  
+* `ls -a` lists all files including hidden files
+* `ls <directory>` lists files and folders in given directory
+* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`copies files over to a given destination
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt` prints files from given path
 <br>
 Here are my personal results after trying a few of the commands out:
 <br>
