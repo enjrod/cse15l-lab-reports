@@ -36,6 +36,44 @@ In this use of `add-message`, it too employs the handleRequest method and takes 
     assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input1));
   }
 ```
-**Symptom** <br>
+<br>
 
-**Bug**
+**Symptom** <br>
+![Image](https://github.com/enjrod/cse15l-lab-reports/blob/main/LabReport2Folder/Lab2-Symptom.png)<br><br>
+
+**Bug** <br>
+Before: 
+```
+static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = newArray[arr.length - i - 1];
+    }
+    return arr;
+  }
+```
+<br>
+After: <br><br>
+
+```
+static int[] reversed(int[] arr) {
+    int[] copy = new int[arr.length];
+    for(int i = 0; i<arr.length; i += 1){
+      copy[i] = arr[i];
+    }
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      newArray[i] = copy[arr.length - i - 1];
+    }
+    return newArray;
+  }
+```
+
+<br>
+This addresses the issue because the initial intention of the code was to return a new array whereas the code previously was returning the original array. Moreover, the previous code's attempt to reverse the elements of "arr" into "newArray" were actually setting the value of "arr" at index "i" to the elements of the empty "newArray"--producing zeroes at every index. Thus, the revision I implemented ensured that the elements of arr were actually being passed to "newArray".
+
+<br>
+
+## Part 3 <br>  ٩(˘◡˘)۶
+
+The labs in weeks two and three have taught me how to run a server locally through the terminal. Additionally, the labs taught me how to remedy symptoms and bugs using JUnit testing. 
