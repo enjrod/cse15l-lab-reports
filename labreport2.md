@@ -3,6 +3,7 @@
 ### Part 1  <br>
 **String Server Code** <br> <br>
 ![Image](Lab2-Code.png)<br>
+
 ---
 **Examples of using add-message** <br> <br>
 
