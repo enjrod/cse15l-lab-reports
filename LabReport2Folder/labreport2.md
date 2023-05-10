@@ -16,3 +16,26 @@ In this use of `add-message`, it too employs the handleRequest method and takes 
 
 ---
 
+### Part 2 <br>
+
+**Non-Failure Inducing Input**
+```
+@Test
+  public void testReversed() {
+    int[] input1 = { };
+    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+  }
+```
+<br>
+
+**Failure Inducing Input**
+```
+@Test
+  public void testReversed2() {
+    int[] input1 = {1, 2, 3};
+    assertArrayEquals(new int[]{3, 2, 1}, ArrayExamples.reversed(input1));
+  }
+```
+**Symptom** <br>
+
+**Bug**
