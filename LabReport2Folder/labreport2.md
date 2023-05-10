@@ -76,4 +76,4 @@ This addresses the issue because the initial intention of the code was to return
 
 ## Part 3 <br>  ٩(˘◡˘)۶
 
-The labs in weeks two and three have taught me how to run a server locally through the terminal. Additionally, the labs taught me how to remedy symptoms and bugs using JUnit testing. 
+The labs in weeks two and three have taught me how to run a server locally through the terminal as well as how to recieve queries through the server url. Additionally, they taught me how to remedy symptoms and bugs of a program using JUnit testing. 
