@@ -5,6 +5,7 @@
 ![Image](Lab2-Code.png)<br>
 
 ---
+
 **Examples of using add-message** <br> <br>
 
 ![Image](Lab2SC1.png)<br>
