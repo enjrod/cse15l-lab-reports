@@ -73,6 +73,8 @@ Source refrenced: https://www.freecodecamp.org/news/grep-command-in-linux-usage-
 [cs15lsp23qm@ieng6-203]:biomed:118$ grep -n "conclusion" 1468-6708-3-1.txt
 16:        adults drew similar conclusions [ 7 ] .
 ```
+<br>
+
 ```
 [cs15lsp23qm@ieng6-203]:biomed:121$ grep -n "expectancy" 1468-6708-3-1.txt
 82:          or active life expectancy [ 14 ] . We based YHL on
