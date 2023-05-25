@@ -72,7 +72,8 @@ Source refrenced: https://www.freecodecamp.org/news/grep-command-in-linux-usage-
           outcome measure. Both YOL and YHL would be clinically
         YHL as the outcome measure in clinical trials involving
 ```
-<br> The "-i" means to print all the lines where the third command line argument appears in a given file without being case sensitive. This could be useful when trying to identify how many lines a word or phrase appears in a given text document where that same word or phrase can have their capitalization flutctuate.  <br>
+
+<br><br> The "-i" means to print all the lines where the third command line argument appears in a given file without being case sensitive. This could be useful when trying to identify how many lines a word or phrase appears in a given text document where that same word or phrase can have their capitalization flutctuate.  <br>
 Source refrenced: https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/
 <br><br>
 
