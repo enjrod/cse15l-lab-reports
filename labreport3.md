@@ -46,6 +46,9 @@ Source refrenced: https://www.freecodecamp.org/news/grep-command-in-linux-usage-
         covariates also made little difference for YHL (columns 3
           covariates made little difference in the findings. We
 ```
+
+<br>
+
 ```
 [cs15lsp23qm@ieng6-203]:biomed:126$ grep -i "clinical"  1468-6708-3-1.txt
         decreased mortality. Clinical trials powered to detect
