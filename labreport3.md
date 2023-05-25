@@ -70,7 +70,7 @@ Source refrenced: https://www.freecodecamp.org/news/grep-command-in-linux-usage-
           YHL, but not YOL. Clinical trials of weight modification
           found for underweight older adults. Clinical trials whose
           outcome measure. Both YOL and YHL would be clinically
-        YHL as the outcome measure in clinical trials involving
+        YHL as the outcome measure in clinical trials involving 
 ```
 
 <br>
