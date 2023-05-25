@@ -1,5 +1,5 @@
 # Lab Report 3 <br>
-## `grep` Options <br> <br>
+## ʕっ•ᴥ•ʔっ `grep` Options <br> <br> 
 **grep -c**
 ```
 [cs15lsp23qm@ieng6-203]:biomed:114$ grep -c "health" 1468-6708-3-1.txt
