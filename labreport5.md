@@ -1,5 +1,5 @@
 # Lab Report 5 <br>
-## ʕっ•ᴥ•ʔっ Part 1 – Debugging Scenario <br> <br> 
+## ʕっ•ᴥ•ʔっ Part 1 – Debugging Scenario <br>
 ---
 **1) Mock Student Post** <br>
 ![Image](MockStudentPost2.png) <br>
@@ -16,6 +16,32 @@ The bash script correctly runs in the screenshot below. The bug was that the stu
 ![Image](ConsideringTA.png) <br>
 
 **3) Setup** <br>
+> Directory Structure <br>
+
+![Image](DirectorySt.png) <br>
+
+> File Structure (After fixing the bug) <br>
+
+![Image](FileSt.png) <br>
+
+> File Structure (Before fixing the bug) <br>
+
+![Image](BeforeLab5.png) <br>
+
+> Command Triggering the Bug <br>
+
+`sh grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3` <br>
+
+
+> To fix the bug <br>
+<br>
+In order to fix the bug, you will have to change the path given in `CPATH` and add ".." before lib to properly access the jar files within the lib folder. <br><br>
+
+## ʕっ•ᴥ•ʔっ Part 2 – Reflection <br>
+---
+<br>
+The most interesting thing I learned this second half of the quarter would have to be the vim command and being able to access as well as edit files within the terminal. 
+
 
 
 
