@@ -8,6 +8,7 @@
 <br>
 <br>
 For reference, here is a clearer version of the screenshot within the edstem post: <br>
+<br>
 
 ![Image](SymptomLab5.png) <br>
 
