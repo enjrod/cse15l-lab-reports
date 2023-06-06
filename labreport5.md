@@ -40,7 +40,7 @@ In order to fix the bug, you will have to change the path given in `CPATH` and a
 ## ʕっ•ᴥ•ʔっ Part 2 – Reflection <br>
 ---
 <br>
-The most interesting thing I learned this second half of the quarter would have to be the vim command and being able to access as well as edit files within the terminal. 
+The most interesting thing I learned this second half of the quarter would have to be the vim command and being able to access as well as edit files within the terminal. Personally, this is what piqued my interest because it was a whole new way to write code and at that point I thought the terminal could only compile files--not expecting you could edit withi it. Another thing I would like to aknowledge would be the ouotput redirection. I just think its cool that there is a convenient way to save an output after compiling!
 
 
 
