@@ -1,6 +1,5 @@
 # Lab Report 5 <br>
 ## ʕっ•ᴥ•ʔっ Part 1 – Debugging Scenario <br>
----
 <br>
 **1) Mock Student Post** <br>
 
@@ -45,7 +44,6 @@ The bash script correctly runs in the screenshot below. The bug was that the stu
 In order to fix the bug, you will have to change the path given in `CPATH` and add ".." before lib to properly access the jar files within the lib folder. <br><br>
 
 ## ʕっ•ᴥ•ʔっ Part 2 – Reflection <br>
----
 <br>
 The most interesting thing I learned this second half of the quarter would have to be the vim command and being able to access as well as edit files within the terminal. Personally, this is what piqued my interest because it was a whole new way to write code and at that point I thought the terminal could only compile files--not expecting you could edit withi it. Another thing I would like to aknowledge would be the ouotput redirection. I just think its cool that there is a convenient way to save an output after compiling!
 
