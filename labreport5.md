@@ -3,11 +3,16 @@
 ---
 <br>
 **1) Mock Student Post** <br>
+
 ![Image](MockStudentPost2.png) <br>
+
 <br>
 <br>
 For reference, here is a clearer version of the screenshot within the edstem post: <br>
+
 ![Image](SymptomLab5.png) <br>
+
+<br>
 
 **1) TA Mimick Response** <br>
 > Consider what directory you are in and where the junit tests are. How would you access the lib folder with the path you are passing in your bash script? 
